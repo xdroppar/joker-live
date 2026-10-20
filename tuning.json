@@ -1,6 +1,6 @@
 {
   "version": 1,
   "phone":   { "exposure": 0.6, "fill": 2.4 },
-  "desktop": { "exposure": 0.0, "fill": 1.0 },
+  "desktop": { "exposure": 1.5, "fill": 3.0 },
   "scale":   { "account": 1.0, "creator": 1.0, "lobby": 1.0, "table": 1.0 }
 }
